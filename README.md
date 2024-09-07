@@ -47,8 +47,7 @@ Hi! I'm a Machine Learning and AI engineer from India, deeply passionate about s
 
 ### 📫 **Connect with Me:**
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **YouTube**: [Your YouTube Channel](#)
+- **LinkedIn**: [abprime5](https://www.linkedin.com/in/abprime5/)
 - **GitHub**: Follow my repositories for interesting ML projects and code samples.
 
 

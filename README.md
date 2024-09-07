@@ -34,7 +34,7 @@ Hi! I'm a Machine Learning and AI engineer from India, deeply passionate about s
 
 ---
 
-![Abinash's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abprime)
+![Abinash's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abprime&theme=vue-dark&icon=true)
 
 ---
 
